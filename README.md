@@ -1,5 +1,4 @@
-# afo
-Ant Foraging Optimization through Artificial Pheromone System
+# Ant Foraging Optimization through Artificial Pheromone System
 In this project, the foraging pattern found in ants and other 'swarm intel
 ligent' insects is simulated using random walk model. The first iteratio
 n uses the ants' odor memory to influence each ants' choice of moving in
